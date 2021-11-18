@@ -5,7 +5,7 @@ go 1.16
 require (
 	github.com/alpacahq/alpaca-trade-api-go v1.9.0
 	github.com/go-redis/redis/v8 v8.11.4
-	github.com/gofiber/fiber/v2 v2.21.0
+	github.com/gofiber/fiber/v2 v2.22.0
 	github.com/gorilla/websocket v1.4.2 // indirect
 	github.com/markcheno/go-quote v0.0.0-20210728005305-f6d452d96e34
 	github.com/shopspring/decimal v1.3.1 // indirect
